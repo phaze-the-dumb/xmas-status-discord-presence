@@ -61,7 +61,7 @@ setInterval(function() {
     startTimestamp: Date.now(),
     endTimestamp: Date.now(),
     largeImageKey: 'xmas',
-    largeImageText: 'Text u can change',
+    largeImageText: 'github.com/wiresboy-exe/xmas-status-discord-presence',
     smallImageKey: 'xmas',
     smallImageText: 'Made by ItzWiresDev#6193',
     partyId: 'snek_party',
